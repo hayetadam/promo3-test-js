@@ -1,0 +1,26 @@
+{
+    "name": "promo3-test-js",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "karma start"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hayetadam/promo3-test-js.git"
+    },
+    "author": "hayet",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/hayetadam/promo3-test-js/issues"
+    },
+    "homepage": "https://github.com/hayetadam/promo3-test-js#readme",
+    "devDependencies": {
+        "jasmine": "^2.8.0",
+        "karma": "^1.7.1",
+        "karma-chrome-launcher": "^2.2.0",
+        "karma-firefox-launcher": "^1.0.1",
+        "karma-jasmine": "^1.1.0"
+    }
+}
